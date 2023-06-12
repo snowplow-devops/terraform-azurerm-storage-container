@@ -47,7 +47,10 @@ No modules.
 
 ## Outputs
 
-No outputs.
+| Name | Description |
+|------|-------------|
+| <a name="output_id"></a> [id](#output\_id) | The Storage container ID |
+| <a name="output_name"></a> [name](#output\_name) | The Storage container name |
 
 # Copyright and license
 
